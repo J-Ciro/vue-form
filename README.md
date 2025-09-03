@@ -1,4 +1,4 @@
-# Vue Interview - Formulario de Registro Multi-Pasos
+# Formulario de Registro Multi-Pasos
 
 Un formulario de registro de usuario en tres pasos, desarrollado con **Vue.js** y **TailwindCSS**
 
@@ -41,8 +41,8 @@ Este proyecto implementa un formulario de registro de tres pasos con validación
 
 ## Requisitos
 
-- **Vue.js**: Construido con Vue 3 para componentes reactivos y gestión de estado.
-- **TailwindCSS**: Utilizado para el diseño y la responsividad.
+- **Vue.js**: Construido con VueJS.
+- **TailwindCSS**: Utilizado para el diseño.
 
 ## Instalación
 
